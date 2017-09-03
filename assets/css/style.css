@@ -1,12 +1,5 @@
 .bodyContent{
-  background-color:#666;
-}
-
-
-.navbarContent{
-  position: fixed;
-  max-height: 60px;
-  padding-bottom: 30px;
+  background-color:#999;
 }
 
 
@@ -30,8 +23,8 @@
   font-size: large;
 }
 .footer{
-  position: fixed;
-  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 
